@@ -1,0 +1,436 @@
+﻿[
+    {
+        "slug":  "ca7riel-01",
+        "cat":  "live",
+        "bw":  false,
+        "w":  1600,
+        "h":  1067
+    },
+    {
+        "slug":  "ca7riel-02",
+        "cat":  "live",
+        "bw":  false,
+        "w":  1067,
+        "h":  1600
+    },
+    {
+        "slug":  "ca7riel-03",
+        "cat":  "live",
+        "bw":  false,
+        "w":  1600,
+        "h":  1067
+    },
+    {
+        "slug":  "ca7riel-04",
+        "cat":  "live",
+        "bw":  false,
+        "w":  1067,
+        "h":  1600
+    },
+    {
+        "slug":  "eruca-byn-01",
+        "cat":  "live",
+        "bw":  true,
+        "w":  1067,
+        "h":  1600
+    },
+    {
+        "slug":  "eruca-byn-02",
+        "cat":  "live",
+        "bw":  true,
+        "w":  1067,
+        "h":  1600
+    },
+    {
+        "slug":  "eruca-byn-03",
+        "cat":  "live",
+        "bw":  true,
+        "w":  1600,
+        "h":  1067
+    },
+    {
+        "slug":  "eruca-byn-04",
+        "cat":  "live",
+        "bw":  true,
+        "w":  1067,
+        "h":  1600
+    },
+    {
+        "slug":  "eruca-01",
+        "cat":  "live",
+        "bw":  false,
+        "w":  1600,
+        "h":  1067
+    },
+    {
+        "slug":  "eruca-02",
+        "cat":  "live",
+        "bw":  false,
+        "w":  1067,
+        "h":  1600
+    },
+    {
+        "slug":  "eruca-03",
+        "cat":  "live",
+        "bw":  false,
+        "w":  1600,
+        "h":  1067
+    },
+    {
+        "slug":  "eruca-04",
+        "cat":  "live",
+        "bw":  false,
+        "w":  1600,
+        "h":  1067
+    },
+    {
+        "slug":  "eruca-05",
+        "cat":  "live",
+        "bw":  false,
+        "w":  1600,
+        "h":  1067
+    },
+    {
+        "slug":  "eruca-06",
+        "cat":  "live",
+        "bw":  false,
+        "w":  1600,
+        "h":  1067
+    },
+    {
+        "slug":  "eruca-07",
+        "cat":  "live",
+        "bw":  false,
+        "w":  1600,
+        "h":  1067
+    },
+    {
+        "slug":  "eruca-08",
+        "cat":  "live",
+        "bw":  false,
+        "w":  1600,
+        "h":  1067
+    },
+    {
+        "slug":  "eruca-09",
+        "cat":  "live",
+        "bw":  false,
+        "w":  1067,
+        "h":  1600
+    },
+    {
+        "slug":  "eruca-10",
+        "cat":  "live",
+        "bw":  false,
+        "w":  1067,
+        "h":  1600
+    },
+    {
+        "slug":  "eruca-11",
+        "cat":  "live",
+        "bw":  false,
+        "w":  1600,
+        "h":  1067
+    },
+    {
+        "slug":  "eruca-12",
+        "cat":  "live",
+        "bw":  false,
+        "w":  1600,
+        "h":  1067
+    },
+    {
+        "slug":  "estudio-01",
+        "cat":  "portrait",
+        "bw":  true,
+        "w":  1067,
+        "h":  1600
+    },
+    {
+        "slug":  "estudio-02",
+        "cat":  "portrait",
+        "bw":  true,
+        "w":  1067,
+        "h":  1600
+    },
+    {
+        "slug":  "estudio-03",
+        "cat":  "portrait",
+        "bw":  false,
+        "w":  1067,
+        "h":  1600
+    },
+    {
+        "slug":  "estudio-04",
+        "cat":  "portrait",
+        "bw":  false,
+        "w":  1600,
+        "h":  1067
+    },
+    {
+        "slug":  "estudio-05",
+        "cat":  "portrait",
+        "bw":  false,
+        "w":  1067,
+        "h":  1600
+    },
+    {
+        "slug":  "estudio-06",
+        "cat":  "still",
+        "bw":  true,
+        "w":  1600,
+        "h":  1200
+    },
+    {
+        "slug":  "estudio-07",
+        "cat":  "still",
+        "bw":  true,
+        "w":  1600,
+        "h":  1200
+    },
+    {
+        "slug":  "estudio-08",
+        "cat":  "still",
+        "bw":  true,
+        "w":  1600,
+        "h":  1067
+    },
+    {
+        "slug":  "estudio-09",
+        "cat":  "still",
+        "bw":  true,
+        "w":  1200,
+        "h":  1600
+    },
+    {
+        "slug":  "torres-01",
+        "cat":  "live",
+        "bw":  false,
+        "w":  1600,
+        "h":  1067
+    },
+    {
+        "slug":  "torres-02",
+        "cat":  "live",
+        "bw":  false,
+        "w":  1067,
+        "h":  1600
+    },
+    {
+        "slug":  "torres-03",
+        "cat":  "live",
+        "bw":  false,
+        "w":  1600,
+        "h":  1067
+    },
+    {
+        "slug":  "torres-04",
+        "cat":  "live",
+        "bw":  false,
+        "w":  1600,
+        "h":  1067
+    },
+    {
+        "slug":  "torres-05",
+        "cat":  "live",
+        "bw":  false,
+        "w":  1600,
+        "h":  1067
+    },
+    {
+        "slug":  "torres-06",
+        "cat":  "live",
+        "bw":  false,
+        "w":  1600,
+        "h":  1067
+    },
+    {
+        "slug":  "torres-07",
+        "cat":  "live",
+        "bw":  false,
+        "w":  1600,
+        "h":  1067
+    },
+    {
+        "slug":  "torres-08",
+        "cat":  "live",
+        "bw":  false,
+        "w":  1600,
+        "h":  1067
+    },
+    {
+        "slug":  "torres-09",
+        "cat":  "live",
+        "bw":  false,
+        "w":  1067,
+        "h":  1600
+    },
+    {
+        "slug":  "torres-10",
+        "cat":  "live",
+        "bw":  false,
+        "w":  1600,
+        "h":  1067
+    },
+    {
+        "slug":  "torres-11",
+        "cat":  "live",
+        "bw":  false,
+        "w":  1600,
+        "h":  1067
+    },
+    {
+        "slug":  "live-01",
+        "cat":  "live",
+        "bw":  true,
+        "w":  843,
+        "h":  1265
+    },
+    {
+        "slug":  "live-02",
+        "cat":  "live",
+        "bw":  true,
+        "w":  1066,
+        "h":  1600
+    },
+    {
+        "slug":  "live-03",
+        "cat":  "live",
+        "bw":  true,
+        "w":  1600,
+        "h":  1066
+    },
+    {
+        "slug":  "live-04",
+        "cat":  "live",
+        "bw":  true,
+        "w":  1600,
+        "h":  1066
+    },
+    {
+        "slug":  "live-05",
+        "cat":  "live",
+        "bw":  true,
+        "w":  1600,
+        "h":  1066
+    },
+    {
+        "slug":  "live-06",
+        "cat":  "live",
+        "bw":  true,
+        "w":  1066,
+        "h":  1600
+    },
+    {
+        "slug":  "live-07",
+        "cat":  "live",
+        "bw":  true,
+        "w":  1600,
+        "h":  1066
+    },
+    {
+        "slug":  "live-08",
+        "cat":  "live",
+        "bw":  true,
+        "w":  1066,
+        "h":  1600
+    },
+    {
+        "slug":  "live-09",
+        "cat":  "live",
+        "bw":  true,
+        "w":  1066,
+        "h":  1600
+    },
+    {
+        "slug":  "live-10",
+        "cat":  "live",
+        "bw":  true,
+        "w":  1066,
+        "h":  1600
+    },
+    {
+        "slug":  "live-11",
+        "cat":  "live",
+        "bw":  true,
+        "w":  1365,
+        "h":  1365
+    },
+    {
+        "slug":  "live-12",
+        "cat":  "live",
+        "bw":  false,
+        "w":  1365,
+        "h":  1365
+    },
+    {
+        "slug":  "live-13",
+        "cat":  "live",
+        "bw":  true,
+        "w":  1365,
+        "h":  1365
+    },
+    {
+        "slug":  "live-14",
+        "cat":  "live",
+        "bw":  false,
+        "w":  1440,
+        "h":  960
+    },
+    {
+        "slug":  "live-15",
+        "cat":  "live",
+        "bw":  true,
+        "w":  1071,
+        "h":  1600
+    },
+    {
+        "slug":  "live-16",
+        "cat":  "live",
+        "bw":  true,
+        "w":  1066,
+        "h":  1600
+    },
+    {
+        "slug":  "live-17",
+        "cat":  "live",
+        "bw":  true,
+        "w":  1067,
+        "h":  1600
+    },
+    {
+        "slug":  "live-18",
+        "cat":  "live",
+        "bw":  true,
+        "w":  1066,
+        "h":  1600
+    },
+    {
+        "slug":  "live-19",
+        "cat":  "live",
+        "bw":  true,
+        "w":  960,
+        "h":  640
+    },
+    {
+        "slug":  "live-20",
+        "cat":  "live",
+        "bw":  true,
+        "w":  640,
+        "h":  960
+    },
+    {
+        "slug":  "live-21",
+        "cat":  "live",
+        "bw":  true,
+        "w":  1296,
+        "h":  864
+    },
+    {
+        "slug":  "live-22",
+        "cat":  "live",
+        "bw":  true,
+        "w":  810,
+        "h":  540
+    }
+]

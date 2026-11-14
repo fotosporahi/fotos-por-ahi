@@ -1,0 +1,6 @@
+# Original photos stay local — only optimized web assets are published
+porfolio/
+tools/
+.zcode/
+Thumbs.db
+Desktop.ini
