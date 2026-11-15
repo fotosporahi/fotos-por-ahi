@@ -36,7 +36,7 @@ assets/manifest.json→ inventario generado
 
 - Bio, contacto y encabezados: están en `index.html` y `es/index.html`.
 - Pie de foto de cada imagen: en `js/photos.js`.
-- Email y redes: buscá `TODO` en ambos HTML.
+- Contacto (WhatsApp e Instagram): buscá `contact-mail` y `social-links` en ambos HTML.
 
 ## Publicación
 
